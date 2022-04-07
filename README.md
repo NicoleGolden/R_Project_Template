@@ -1,3 +1,17 @@
+# About R\_Project\_Template 
+* This is a R project template I tailored for future projects. 
+* To get clone the files to local computer, in git: 
+
+```
+# step 1: set up working directory (where you store the cloned files)
+cd Desktop 
+
+# step 2: clone the repo 
+git clone https://github.com/NicoleGolden/R_Project_Template
+
+# Now you can modify the files as you need for your R project.
+```
+
 # List of Files 
 1. `cache/`: store **cleaned** data that 
 **(a)** are generated during a preprocessing step and
